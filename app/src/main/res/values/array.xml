@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tag_labels_order_by">
+
+        <item>"World"</item>
+        <item>"Sport"</item>
+        <item>"Football"</item>
+
+    </string-array>
+
+    <string-array name="tag_values_order_by">
+
+        <item>"world"</item>
+        <item>"sport"</item>
+        <item>"football"</item>
+
+    </string-array>
+
+    <string-array name="date_labels_order_by">
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+    </string-array>
+
+    <string-array name="date_values_order_by">
+        <item>2018-01-01</item>
+        <item>2017-01-01</item>
+        <item>2016-01-01</item>
+        <item>2015-01-01</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News Feed</string>
+
+    <string name="no_internet_message">No internet connection!</string>
+    <string name="no_news">No News</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="sort_by">Sort by:</string>
+    <string name="settings_sort_by_TAG" >sort_by</string>
+    <string name="setting_sort_by_date">date</string>
+
+    <string name="tag_list_default_value">sport</string>
+
+    <string name="tag_list_label">Order By Tag</string>
+
+    <string name="date_list_label">Order By Date</string>
+    <string name="date_list_key" >order_by_date</string>
+
+
+
+    <string name="date_list_2018_default_value" translatable="false">2018-01-01</string>
+
+</resources>
